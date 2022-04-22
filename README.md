@@ -6,8 +6,11 @@ This is a Mini-Project for SC1015 Introduction to Data Science and Artificial In
 
 ## Contributors
 @katemxing: Data preperation, Exploratory Data Analysis
+
 @: Decision Tree, Random Forest
+
 @: Sentiment Analysis
+
 
 ## Motivation
 What are the deciding factors of a good game?
