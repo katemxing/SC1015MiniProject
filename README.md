@@ -9,9 +9,9 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 ## Contributors
 @katemxing: Data preperation, Exploratory Data Analysis
 
-@: Decision Tree, Random Forest
+@bakase-e: Decision Tree, Random Forest
 
-@: Sentiment Analysis
+@Rishe2000: Natural Language Processing
 
 
 ## Motivation and Problem Definition
