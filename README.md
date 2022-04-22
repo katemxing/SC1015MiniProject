@@ -19,7 +19,7 @@ This is a Mini-Project for SC1015 Introduction to Data Science and Artificial In
 
 - Which model is the best?
 
-- How do those customer review a good/bad game? 
+- When players evaluate a good/bad game, what words do they use?
 
 ## Models Used
 - Decision Tree
