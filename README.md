@@ -28,5 +28,5 @@ This is a Mini-Project for SC1015 Introduction to Data Science and Artificial In
 ## Conclusion
 
 ## References
-1. [Introducing Steam Database's new rating algorithm](https://steamdb.info/blog/steamdb-rating/)
+1. [Introducing Steam Database's new rating algorithm, SteamDB](https://steamdb.info/blog/steamdb-rating/)
 
