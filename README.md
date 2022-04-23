@@ -19,7 +19,7 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 
 - Can we predict a game as good/bad game just by its attributes?
 
-- Which model is the best?
+- Which model is the best for abovementioned classification?
 
 - When players evaluate a good/bad game, what words do they use?
 
