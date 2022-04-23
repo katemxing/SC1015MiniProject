@@ -39,7 +39,7 @@ Xing Mian (@katemxing): Data preperation, Exploratory Data Analysis
 
 
 
-| Step |                             |
+| Step |          Description        |
 | ---- | --------------------------- |
 | 1    | Data Preparing              |
 | 2    | Exploratory Data Analysis   |
