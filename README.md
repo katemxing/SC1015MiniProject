@@ -13,7 +13,7 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 
 Babu Rishe (@Rishe2000): Natural Language Processing
 
-Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
+Wong Ri Hong (@bakase-e): Machine Learning
 
 Xing Mian (@katemxing): Data preperation, Exploratory Data Analysis
 
