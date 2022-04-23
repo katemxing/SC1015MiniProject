@@ -1,4 +1,4 @@
-# SC1015 Mini-Project: Steam Store Games Analysis
+SC1015 Mini-Project: Steam Store Games Analysis
 
 
 ## Description
@@ -7,26 +7,20 @@
 
 This is a Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence.
 
-It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/nikdavis/steam-store-games.) scraped from Steam and SteamSpy APIs by Nik Davis on Kaggle.
-
-## Contributors
-
-Babu Rishe (@Rishe2000): Natural Language Processing
-
-Wong Ri Hong (@bakase-e): Machine Learning
-
-Xing Mian (@katemxing): Data preperation, Exploratory Data Analysis
+It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/nikdavis/steam-store-games) scraped from Steam and SteamSpy APIs by Nik Davis on Kaggle.
 
 
 ## Motivation and Problem Definition
 
 - We define good games as those with scores above the Q3 quantile of the rating among all games on [Steam Database](https://steamdb.info/).
-
 - Can we predict a game as good/bad game just by its attributes?
-
 - Which model is the best for abovementioned classification?
-
 - When players evaluate a good/bad game, what words do they use?
+
+### About Datasets
+
+- **steam.csv**: Game data from Steam. Each row has a unique AppID and is usually a separate release, excepting some re-releases and remasters.
+- **steamspy_tag_data.csv**: Contains tags from SteamSpy and the number of votes for each tag for each game. Higher numbers can be considered more strongly associated with that tag.
 
 ## Models Used
 
@@ -37,19 +31,23 @@ Xing Mian (@katemxing): Data preperation, Exploratory Data Analysis
 
 ## Table of Contents of our Jupyter Notebook
 
+| Step | Description                     |
+| ---- | ------------------------------- |
+| 1    | **Data Preparing**              |
+| 2    | **Exploratory Data Analysis**   |
+| 3    | **Machine Learning**            |
+| 4    | **Natural Language Processing** |
+| 5    | **Conclusion**                  |
 
+## What we have learnt from this Mini-Poject?
 
-| Step |          Description        |
-| ---- | --------------------------- |
-| 1    | Data Preparing              |
-| 2    | Exploratory Data Analysis   |
-| 3    | Machine Learning            |
-| 4    | Natural Language Processing |
-| 5    | Conclusion                  |
+## Contributors
 
+Babu Rishe (@Rishe2000): Natural Language Processing
 
+Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
 
-## What we have learnt from this Mini-Poject
+Xing Mian (@katemxing): Data preperation, Exploratory Data Analysis
 
 ## References
 
