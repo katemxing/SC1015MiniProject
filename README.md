@@ -2,6 +2,8 @@
 
 
 ## Description
+![image](https://user-images.githubusercontent.com/89787115/164893872-55ae3b2c-204b-41c1-97c6-bcbea336129f.png)
+
 This is a Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence.
 
 It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/nikdavis/steam-store-games.) scraped from Steam and SteamSpy APIs by Nik Davis on Kaggle.
