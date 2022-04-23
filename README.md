@@ -1,4 +1,4 @@
-SC1015 Mini-Project: Steam Store Games Analysis
+# SC1015 Mini-Project: Steam Store Games Analysis
 
 
 ## Description
