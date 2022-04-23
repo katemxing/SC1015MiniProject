@@ -26,6 +26,7 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 ## Models Used
 - Decision Tree
 - Random Forest
+- Naive Bayes
 
 ## Conclusion
 
