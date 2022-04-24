@@ -28,7 +28,7 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 | Step | Description                     |
 | ---- | ------------------------------- |
-| 1    | **Data Preparing**              |
+| 1    | **Data Preparation**              |
 | 2    | **Exploratory Data Analysis**   |
 | 3    | **Machine Learning**            |
 | 4    | **Natural Language Processing** |
