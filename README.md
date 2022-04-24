@@ -1,8 +1,7 @@
 # SC1015 Mini-Project: Steam Store Games Analysis
 
 
-## Description
-
+## :video_game:Description
 <img src="https://user-images.githubusercontent.com/89787115/164893872-55ae3b2c-204b-41c1-97c6-bcbea336129f.png" alt="image" style="zoom: 20%;" />
 
 This is a Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence.
@@ -10,14 +9,21 @@ This is a Mini-Project for SC1015 Introduction to Data Science and Artificial In
 It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/nikdavis/steam-store-games) scraped from Steam and SteamSpy APIs by Nik Davis on Kaggle, and also the analysis of [Steam Reviews](https://www.kaggle.com/datasets/andrewmvd/steam-reviews) from Steam Store by Larxel.
 
 
-## Motivation and Problem Definition
+## :thought_balloon: Motivation 
+During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming on Steam. Video gaming is one of the industries that boomed during the pandemic. With the upsurge of the global interest in gaming:
 
+- How can developers identifiy if their game is success? 
+- Can they identify what is good, what is bad game? 
+- Can they get useful insights from the reviews provided by the users? 
+- Most Importantly, from a gamer's  perspective, is it possible to identify whether a game is worth playing or not?
+
+## 	:grey_question:Problem Definition
 - We define good games as those with scores above the Q3 quantile of the rating among all games on [Steam Database](https://steamdb.info/).
 - Can we predict a game as good/bad game just by its attributes?
 - Which model is the best for abovementioned classification?
 - When players evaluate a good/bad game, what words do they use?
 
-### About Datasets
+### :label:About Datasets
 
 - **steam.csv**: Game data from Steam. Each row has a unique AppID and is usually a separate release, excepting some re-releases and remasters.
 
@@ -27,14 +33,14 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 
   Extracted from [Steam Reviews](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).
 
-## Models Used
+## :computer:Models Used
 
 - Decision Tree
 - Random Forest
 - Sentiment Analysis
 - Naive Bayes
 
-## Table of Contents of our Jupyter Notebook
+## :orange_book:Table of Contents of our Jupyter Notebook
 
 | Step | Description                     |
 | ---- | ------------------------------- |
@@ -44,9 +50,9 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 | 4    | **Natural Language Processing** |
 | 5    | **Conclusion**                  |
 
-## What we have learnt from this Mini-Poject?
+## :black_nib:What we have learnt from this Mini-Poject?
 
-## Contributors
+## :technologist:Contributors
 
 Babu Rishe (@Rishe2000): Natural Language Processing
 
@@ -54,7 +60,7 @@ Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
 
 Xing Mian (@katemxing): Data preperation, Exploratory Data Analysis
 
-## References
+## :books:References
 
 1. [SteamDB Team. (2021, June 7). Introducing Steam Database’s new rating algorithm.](https://steamdb.info/blog/steamdb-rating/)
 2. [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/nikdavis/steam-store-games)
