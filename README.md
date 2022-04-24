@@ -23,13 +23,26 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 - Which model is the best for abovementioned classification?
 - When players evaluate a good/bad game, what words do they use?
 
-## :label:About Datasets
+## :label:About This Repository
+- [FinalProject.ipynb](https://github.com/katemxing/SC1015MiniProject/blob/main/FinalProject.ipynb):
 
-- **steam.csv**: Game data from Steam. Each row has a unique AppID and is usually a separate release, excepting some re-releases and remasters.
+| Step | Description                     |
+| ---- | ------------------------------- |
+| 1    | **Data Preparing**              |
+| 2    | **Exploratory Data Analysis**   |
+| 3    | **Machine Learning**            |
+| 4    | **Natural Language Processing** |
+| 5    | **Conclusion**                  |
 
-- **steamspy_tag_data.csv**: Contains tags from SteamSpy and the number of votes for each tag for each game. Higher numbers can be considered more strongly associated with that tag.
+- [Script.md](https://github.com/katemxing/SC1015MiniProject/blob/main/Script.md): The script for our presentation.
 
-- **dataset.csv**: The dataset contains all the publicly available reviews of specific games we used in English from Steam Reviews portion of Steam store run by Valve. Each review is described by review text, the id of game it belongs to, review sentiment (positive or negative) and a number of users who thought the review was helpful.
+- [Presentation Slides.pdf](https://github.com/katemxing/SC1015MiniProject/blob/main/Presentation%20Slides.pdf): The slides for our presentation.
+
+- [steam.csv](https://github.com/katemxing/SC1015MiniProject/blob/main/steam.csv): Game data from Steam. Each row has a unique AppID and is usually a separate release, excepting some re-releases and remasters.
+
+- [steamspy_tag_data.csv](https://github.com/katemxing/SC1015MiniProject/blob/main/steamspy_tag_data.csv): Contains tags from SteamSpy and the number of votes for each tag for each game. Higher numbers can be considered more strongly associated with that tag.
+
+- [dataset.csv](https://github.com/katemxing/SC1015MiniProject/blob/main/dataset.csv): The dataset contains all the publicly available reviews of specific games we used in English from Steam Reviews portion of Steam store run by Valve. Each review is described by review text, the id of game it belongs to, review sentiment (positive or negative) and a number of users who thought the review was helpful.
 
   Extracted from [Steam Reviews](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).
 
@@ -39,17 +52,6 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 - Random Forest
 - Naive Bayes Classifier
 - Sentiment Analysis
-
-
-## :orange_book:Table of Contents of our Jupyter Notebook
-
-| Step | Description                     |
-| ---- | ------------------------------- |
-| 1    | **Data Preparing**              |
-| 2    | **Exploratory Data Analysis**   |
-| 3    | **Machine Learning**            |
-| 4    | **Natural Language Processing** |
-| 5    | **Conclusion**                  |
 
 ## :black_nib:What we have learnt from this Mini-Poject?
 
