@@ -52,6 +52,13 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 ## :black_nib:What we have learnt from this Mini-Poject?
 
+- Encoding categorical data using labelencoder
+- Using wordcloud for visualization
+- Other Models: Random forest, Naive Bayes
+- Cleaning/processing data using scaling/delimiting
+- Processing words & sentiment analysis
+- Collaborating using google collab/github
+
 ## :technologist:Contributors
 
 Babu Rishe (@Rishe2000): Natural Language Processing, Naive Bayes
