@@ -42,7 +42,7 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 - [steamspy_tag_data.csv](https://github.com/katemxing/SC1015MiniProject/blob/main/steamspy_tag_data.csv): Contains tags from SteamSpy and the number of votes for each tag for each game. Higher numbers can be considered more strongly associated with that tag.
 
-- [dataset.csv](https://github.com/katemxing/SC1015MiniProject/blob/main/dataset.csv): The dataset contains all the publicly available reviews of specific games we used in English from Steam Reviews portion of Steam store run by Valve. Each review is described by review text, the id of game it belongs to, review sentiment (positive or negative) and a number of users who thought the review was helpful.
+- [dataset.csv](https://github.com/katemxing/SC1015MiniProject/blob/main/dataset.csv): The dataset contains all the publicly available reviews of *Portal 2* in English from Steam Reviews portion of Steam store run by Valve. Each review is described by review text, the id of game it belongs to, review sentiment (positive or negative) and a number of users who thought the review was helpful.
 
   Extracted from [Steam Reviews](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).
 
