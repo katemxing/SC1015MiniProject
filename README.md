@@ -23,7 +23,7 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 - Which model is the best for abovementioned classification?
 - When players evaluate a good/bad game, what words do they use?
 
-### :label:About Datasets
+## :label:About Datasets
 
 - **steam.csv**: Game data from Steam. Each row has a unique AppID and is usually a separate release, excepting some re-releases and remasters.
 
