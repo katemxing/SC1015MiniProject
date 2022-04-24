@@ -54,7 +54,7 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 ## :technologist:Contributors
 
-Babu Rishe (@Rishe2000): Natural Language Processing
+Babu Rishe (@Rishe2000): Natural Language Processing, Naive Bayes
 
 Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
 
