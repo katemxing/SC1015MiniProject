@@ -57,10 +57,10 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 - Encoding categorical data using LabelEncoder
 - Using wordcloud for visualization
-- Other Models: Random forest, Naive Bayes
+- Other Models: Random Forest, Naive Bayes
 - Cleaning/processing data using scaling/delimiting
 - Processing words & sentiment analysis
-- Collaborating using google collab/GitHub
+- Collaborating using Google Collab/GitHub
 
 ## :technologist:Contributors
 
