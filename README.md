@@ -48,7 +48,7 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 
 ## Contributors
 
-Babu Rishe (@Rishe2000): Natural Language Processing
+Babu Rishe (@Rishe2000): Natural Language Processing, Naive Bayes 
 
 Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
 
