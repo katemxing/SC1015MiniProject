@@ -1,8 +1,4 @@
-SC1015 Mini-Project: Steam Store Games Analysis
-
-[TOC]
-
-
+# SC1015 Mini-Project: Steam Store Games Analysis
 
 
 ## Description
