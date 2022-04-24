@@ -1,5 +1,9 @@
 SC1015 Mini-Project: Steam Store Games Analysis
 
+[TOC]
+
+
+
 
 ## Description
 
@@ -36,8 +40,6 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 
 ## Table of Contents of our Jupyter Notebook
 
-[FinalProject.ipynb](https://github.com/katemxing/SC1015MiniProject/blob/main/FinalProject.ipynb)
-
 | Step | Description                     |
 | ---- | ------------------------------- |
 | 1    | **Data Preparing**              |
@@ -46,11 +48,11 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 | 4    | **Natural Language Processing** |
 | 5    | **Conclusion**                  |
 
-## What have we learnt from this Mini-Poject?
+## What we have learnt from this Mini-Poject?
 
 ## Contributors
 
-Babu Rishe (@Rishe2000): Natural Language Processing, Naive Bayes 
+Babu Rishe (@Rishe2000): Natural Language Processing
 
 Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
 
