@@ -46,7 +46,7 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 | 4    | **Natural Language Processing** |
 | 5    | **Conclusion**                  |
 
-## What we have learnt from this Mini-Poject
+## What have we learnt from this Mini-Poject?
 
 ## Contributors
 
