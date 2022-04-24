@@ -36,6 +36,8 @@ It focuses on the analysis of [Steam Store Games (Clean dataset)](https://www.ka
 
 ## Table of Contents of our Jupyter Notebook
 
+[FinalProject.ipynb](https://github.com/katemxing/SC1015MiniProject/blob/main/FinalProject.ipynb)
+
 | Step | Description                     |
 | ---- | ------------------------------- |
 | 1    | **Data Preparing**              |
