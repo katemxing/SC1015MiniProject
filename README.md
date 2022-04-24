@@ -37,8 +37,9 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 - Decision Tree
 - Random Forest
+- Naive Bayes Classifier
 - Sentiment Analysis
-- Naive Bayes
+
 
 ## :orange_book:Table of Contents of our Jupyter Notebook
 
@@ -61,7 +62,7 @@ During the COVID-19 pamdemic in 2020, more than 20.3 million people were gaming 
 
 ## :technologist:Contributors
 
-Babu Rishe (@Rishe2000): Natural Language Processing, Naive Bayes
+Babu Rishe (@Rishe2000): Natural Language Processing, Naive Bayes Classifier
 
 Wong Ri Hong (@bakase-e): Decision Tree, Random Forest
 
